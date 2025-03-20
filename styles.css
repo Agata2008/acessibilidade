@@ -33,6 +33,16 @@ section {
     font-weight: 600;
 }
 
+.inicio-fundo {
+    background-image: url('img/empresa.jpg');
+    background-size: cover;
+    background-position: right;
+    border-radius: 80px;
+    width: 100%;
+    height: 606px;
+    padding: 40px;
+    margin: 0 auto;
+}
 
 .img-inicio {
     position: absolute;
