@@ -34,9 +34,7 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
-    background-image: url('img/logo 4.jpg');
-    /* Substitua pelo caminho da sua imagem */
+    background-image: url('');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
