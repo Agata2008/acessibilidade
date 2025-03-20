@@ -44,7 +44,6 @@ section {
     margin: 0 auto;
 }
 
-/* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
     right: 0;
@@ -83,7 +82,6 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background-size: 180px 180px;
-    /* Ajuste o tamanho conforme necessário */
 }
 
 #ducati .container {
@@ -92,7 +90,6 @@ section {
     justify-content: center;
     position: relative;
     z-index: 1;
-    /* Garante que o conteúdo fica acima das imagens do background */
 }
 
 
